@@ -53,7 +53,7 @@ The UK built 775,014 cars in 2022 and exported the majority of them to the EU. T
 
 ## AI use disclosed
 
-AI helped build the reconstruction code, the analysis functions, and this README, working from the same public source list as the original paper. No paragraph of that paper was copied into this repo. Check the cited sources yourself before you rely on any number here for a real decision.
+AI helped build the reconstruction code, the analysis functions, working from the same public source list as the original. Check the cited sources yourself before you rely on any number here for a real decision.
 
 ## License
 
