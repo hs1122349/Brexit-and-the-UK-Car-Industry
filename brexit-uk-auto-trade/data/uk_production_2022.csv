@@ -1,0 +1,10 @@
+metric,value,unit,source
+cars_produced,775014,vehicles,"SMMT, 2023"
+commercial_vehicles_produced,101600,vehicles,"SMMT, 2023"
+engines_produced,1500000,units,"SMMT, 2023"
+manufacturing_employees,182000,people,"SMMT, 2023"
+total_sector_workforce,780000,people,"SMMT, 2023"
+sector_trade_revenue,77,GBP_billion,"SMMT, 2023"
+sector_share_of_uk_exports,10,percent,"SMMT, 2023"
+parts_manufacturing_companies,2500,companies,"SMMT, 2023"
+digital_ad_spend_growth_2020_2021,71,percent,"SMMT, 2023"
